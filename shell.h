@@ -143,4 +143,4 @@ char *f_strsub(char const *s, unsigned int start, size_t len);
 void f_strdel(char **as);
 int _strcmp(const char *s1, const char *s2);
 
-#endif /* __SHELL_
+#endif /* __SHELL_*/
